@@ -47,4 +47,10 @@ As a non-developer with a visionary idea, I'm reaching out to the global develop
 
 If DIM resonates with you, please reach out—every philosophical insight, technical suggestion, or critique is invaluable. Together, we can co-create a dynamic governance future.
 
+## Contributing
+
+This project is open to contributions from developers, philosophers, and ethical enthusiasts. Please feel free to open issues, create pull requests, or start discussions to suggest enhancements, improvements, or technical developments. Your insights and expertise are greatly appreciated!
+
+[Read detailed Contribution Guidelines here](CONTRIBUTING.md)
+
 **Thank you for believing in the power of ideas.**
