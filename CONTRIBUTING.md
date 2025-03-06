@@ -24,7 +24,7 @@ To ensure smooth collaboration, please follow these guidelines:
 	•	Contributions should align with the project’s goals of ethical governance, dynamic meritocracy, and inclusivity.
 
 🔗 Resources
-	•	Read the DIM White Paper (link to be added)
+	•	Read the DIM White Paper: https://github.com/Danielleondos/Dynamic-Influence-Model/blob/34bbe10770612129c27d94137731d5fab50f7636/DIM_White_Paper_v1.pdf
 	•	Check out the README for an overview of the project.
 	•	Open a discussion in the Issues tab for deeper philosophical and technical debates.
 
