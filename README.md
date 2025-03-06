@@ -49,6 +49,6 @@ If DIM inspires you, your philosophical, ethical, or technical contributions can
 
 Together, we can shape an ethical and dynamic future guided by integrity, inclusivity, and continuous innovation. By preventing oligarchies and ensuring that influence is based on genuine contributions rather than static wealth or power, we have the opportunity to redefine governance and financial systems.
 
-➡️ Read the detailed Contribution Guidelines here (link will be added soon)
+➡️ Read the detailed Contribution Guidelines here: https://github.com/Danielleondos/Dynamic-Influence-Model/blob/main/CONTRIBUTING.md
 
 Thank you for believing in the power of ideas. Great ideas give humanity not only longevity but eternity.
