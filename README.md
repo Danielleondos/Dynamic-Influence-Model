@@ -74,6 +74,8 @@ Your support **ensures DIM remains independent**, empowering **decentralized dev
 If you believe in the **vision of DIM**, you can support it through a **secure and transparent donation system**:  
 
 ✅ **[Donate via Revolut](https://revolut.me/leondos)** (Instant, secure, no hidden fees)  
+📌 **[Read Our Full Sponsorship Policy](https://github.com/Danielleondos/Dynamic-Influence-Model/blob/main/SPONSORSHIP.md)**
+
 
 📢 **IMPORTANT:** Supporting DIM **does not** grant governance power, decision-making privileges, or influence over the project's direction. **DIM remains fully decentralized and meritocratic.**  
 
