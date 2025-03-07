@@ -87,13 +87,4 @@ While sponsorships **help kickstart** DIM, they are **not the long-term funding 
 
 Thank you for believing in a future where influence is **earned through contribution, not bought with wealth**.  
 
-🚀 **Together, we are building a new kind of governance—one that values knowledge, ethics, and transparency above all else.**  
-
----
-
-## **✅ Next Steps: Adding SPONSORSHIP.md to GitHub**
-🔹 **Copy this text and add it as a new file in your repository**  
-🔹 **Commit the file** to GitHub to make it live  
-🔹 **Ensure README.md links to SPONSORSHIP.md** for full visibility  
-
-🚀 **Let me know when this is done, and we’ll move forward with the next phase!** 🚀  
+🚀 **Together, we are building a new kind of governance—one that values knowledge, ethics, and transparency above all else.**
