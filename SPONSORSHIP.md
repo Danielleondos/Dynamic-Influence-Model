@@ -75,7 +75,10 @@ In alignment with **DIM’s principles of decentralization and censorship resist
 To support **DIM’s mission of absolute decentralization**, you can contribute **Bitcoin (BTC) only** using the official DIM donation address:  
 
 ### **📌 Official Bitcoin Address:**  
-**`bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny`**  
+**`bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny`**
+
+**Verify Transactions:**  
+<a href="https://www.blockchain.com/btc/address/bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny" target="_blank" rel="noopener noreferrer">🔗 View on Blockchain</a>  
 
 ✅ **Immutable, censorship-resistant funding method**  
 ✅ **No intermediaries, ensuring direct support for DIM’s growth**  
