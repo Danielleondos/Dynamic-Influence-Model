@@ -18,7 +18,7 @@ The **DIM White Paper** explores:
 ✅ **AI-Driven, Self-Correcting Governance**: Continuous validation and adaptation via **artificial intelligence**.  
 ✅ **Inclusive Reintegration**: Empowering **marginalized communities**, including ethical rehabilitation for incarcerated individuals.  
 
-📌 The paper is **cryptographically timestamped** on the **Bitcoin blockchain** and digitally signed, verifying authorship and ensuring a **robust, immutable record** of its originality.  
+📌 The paper is **cryptographically timestamped** on the **Bitcoin blockchain** and **digitally signed**, ensuring an **immutable, decentralized, and publicly verifiable record** of its **originality, authorship, and integrity**. It is **intended for official filing** to further solidify its **legal and archival status**.  
 
 ---
 
