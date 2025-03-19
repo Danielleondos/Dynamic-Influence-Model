@@ -1,1 +1,10 @@
-custom: ["https://revolut.me/leondos"]
+# FUNDING.yml - Official DIM Funding Configuration
+
+github: []
+patreon: []
+open_collective: []
+ko_fi: []
+tidelift: []
+custom: 
+  - "bitcoin:bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny" # Official DIM Bitcoin Address
+  - "https://www.blockchain.com/btc/address/bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny" # View transactions for full transparency
