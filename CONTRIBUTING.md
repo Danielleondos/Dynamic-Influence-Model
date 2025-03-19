@@ -61,7 +61,11 @@ DIM’s financial integrity depends on using **Bitcoin (BTC)**—the **only** tr
 If you believe in **DIM’s mission of decentralized governance**, you can contribute using Bitcoin **only** at the following address:  
 
 ### **📌 Official Bitcoin Address:**  
-**`bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny`**  
+🔹 **Bitcoin Address:**  
+`bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny`  
+
+🔹 **Verify Transactions:**  
+[View on Blockchain](https://www.blockchain.com/btc/address/bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny)
 
 ✅ **Immutable, censorship-resistant funding method**  
 ✅ **No intermediaries—direct support for DIM’s mission**  
