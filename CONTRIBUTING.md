@@ -65,7 +65,9 @@ If you believe in **DIM’s mission of decentralized governance**, you can contr
 `bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny`  
   
 🔹 **Verify Transactions:**  
-<a href="https://www.blockchain.com/btc/address/bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny" target="_blank" rel="noopener noreferrer">🔗 View on Blockchain</a>
+<a href="https://www.blockchain.com/btc/address/bc1qra52k84zf02cfr0w09t8wl9pxu8mz2g605vqny" target="_blank" rel="noopener noreferrer">
+    🔗 View on Blockchain
+</a>
 
 ✅ **Immutable, censorship-resistant funding method**  
 ✅ **No intermediaries—direct support for DIM’s mission**  
