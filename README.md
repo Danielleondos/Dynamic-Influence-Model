@@ -60,8 +60,8 @@ As DIM evolves, we recognize that **governance is not just a technical challenge
 2️⃣ **Economic Balance & Reverse Taxation** – Exploring **new financial mechanisms** that **reflect fairness rather than capital accumulation**.  
 3️⃣ **Human-Centered Governance** – **Simplified, transparent, and psychologically sustainable** decision-making processes.  
 
-📖 **Read the full addendum on these updates:**  
-📌 **[Addendum.md](Addendum.md)**  
+**Read the full addendum on these updates:**  
+📌 **[Read the full addendum here](./DIM_Addendum.md)**
 
 ---
 
