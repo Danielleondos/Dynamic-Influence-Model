@@ -57,7 +57,17 @@ DIM’s financial integrity depends on using **Bitcoin (BTC)**—the **only** tr
 
 ---
 
-## 📢 **Official DIM Bitcoin Address**  
+## 📢 **About the Creator: Fostering Open Collaboration**
+
+DIM thrives on **collaboration** and **authenticity**. To ensure a genuine community experience:
+
+- **Direct Communication:** [Contact me via GitHub](https://github.com/Danielleondos) for discussions, questions, or feedback.
+- **Personal Interaction:** I'm open to **video calls** to verify my identity and engage in meaningful conversations about DIM.
+- **Community-Driven Development:** Your contributions and perspectives are key. Let's build DIM together!
+
+---
+
+## **Official DIM Bitcoin Address**  
 If you believe in **DIM’s mission of decentralized governance**, you can contribute using Bitcoin **only** at the following address:  
 
 ### **📌 Official Bitcoin Address:**  
