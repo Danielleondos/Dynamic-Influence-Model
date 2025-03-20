@@ -71,6 +71,16 @@ In alignment with **DIM’s principles of decentralization and censorship resist
 
 ---
 
+## 📢 **About the Creator: Ensuring Transparency**
+
+DIM is founded on principles of **trust** and **community engagement**. As the creator, I am committed to maintaining these values:
+
+- **Open Communication:** Feel free to [message me on GitHub](https://github.com/Danielleondos) with any questions or ideas.&#8203;:contentReference[oaicite:2]{index=2}
+- **Identity Verification:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+- **Community-Centric Approach:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+
+---
+
 ## 📢 **Official DIM Bitcoin Address**  
 To support **DIM’s mission of absolute decentralization**, you can contribute **Bitcoin (BTC) only** using the official DIM donation address:  
 
