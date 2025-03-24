@@ -35,6 +35,21 @@ DIM is more than just an idea—it’s a **blueprint for a future** where govern
 
 ---
 
+## **DIM Feasibility & Real-World Applications**
+To further validate the Dynamic Influence Model (DIM) and explore its potential for societal transformation, we have conducted a deep investigation into its **practical implementation, scalability, and ethical impact**.
+
+This research explores:
+
+✅ **How DIM differs from DAOs and traditional governance models.**  
+✅ **Which technologies (smart contracts, reputation systems, decentralized ID) can support DIM today.**  
+✅ **Early-stage experiments and real-world pilot programs testing DIM principles.**  
+✅ **Challenges and solutions for large-scale implementation.**  
+✅ **Where DIM could have the most profound impact—governance, economic fairness, planetary stewardship.**  
+
+📄 **Read the full research:** [DIM Feasibility Report 2025](DIM_Feasibility_Report_2025.md)
+
+---
+
 ## 🧠 **Psychological & Cultural Expansion of DIM**  
 
 As DIM evolves, we recognize that **governance is not just a technical challenge**—it is also a **psychological and cultural one**. To ensure its success, **DIM integrates human-centric elements** that address deep-rooted needs for **structure, fairness, and engagement**.  
